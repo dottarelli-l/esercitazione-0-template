@@ -12,7 +12,7 @@ Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
 
 ## Step 1 — Hello World: compilazione ed esecuzione
-
+verifica
 Comando di compilazione:
 
 Comando di esecuzione e risultato osservato:
